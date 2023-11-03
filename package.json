@@ -1,0 +1,30 @@
+{
+  "name": "tailwind-test",
+  "version": "1.0.0",
+  "description": "tailwind css testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristoperCarter0206/test-repo.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css"
+  ],
+  "author": "christoper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristoperCarter0206/test-repo/issues"
+  },
+  "homepage": "https://github.com/ChristoperCarter0206/test-repo#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+  }
+}
